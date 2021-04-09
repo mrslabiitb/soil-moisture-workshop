@@ -1,2 +1,6 @@
-# IARI-soilmoisture-workshop
-Best practices in radar remote sensing for geo and biophysical parameter retrieval over cropland
+# soilmoisture-workshop
+Soil moisture retrieval using radar measurements.
+This repository includes:
+Oh 1992
+Oh2004
+Water Cloud Model
